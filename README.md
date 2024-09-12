@@ -15,7 +15,6 @@ The code was written in MATLAB R2023b.
 
 | **Directory** | **Description**                                                     |
 |---------------|---------------------------------------------------------------------|
-| analysis_code | Old analysis code for aMussels                                      |
 | helper        | General purpose helper functions                                    |
 | plotting      | Functions used for plotting                                         |
 | procedures    | Functions for essential steps of the algorithm                      |
