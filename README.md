@@ -29,3 +29,20 @@ The code was written in MATLAB R2023b.
 To replicate the figures in the paper:
 1. Set the desired figure number in line 13 of the `main.m` script.
 2. Run the `main.m` script.
+
+## Cite
+```
+@article{krizmancic2024,
+    doi = {10.1371/journal.pone.0314642},
+    author = {Križmančić, Marko AND Bogdan, Stjepan},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Adaptive connectivity control in networked multi-agent systems: A distributed approach},
+    year = {2024},
+    month = {12},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0314642},
+    pages = {1-27},
+    number = {12},
+}
+```
